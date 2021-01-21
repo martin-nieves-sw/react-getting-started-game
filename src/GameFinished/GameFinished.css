@@ -1,0 +1,17 @@
+.FlexColumn {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+}
+
+.TryhardButtons {
+  margin-top: 8px;
+  font-size: smaller;
+}
+
+.TryhardMode {
+  background-color: red;
+  color: white;
+}

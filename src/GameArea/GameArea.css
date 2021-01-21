@@ -1,0 +1,10 @@
+.Flex {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+}
+
+.GameBlock {
+  width: 250px;
+  border: 1px lightgray solid;
+}
